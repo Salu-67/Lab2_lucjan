@@ -28,8 +28,13 @@
 								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
 								<m_nLeft type="a">5</m_nLeft>
 								<m_nTop type="a">27</m_nTop>
+<<<<<<< HEAD
 								<m_nRight type="a">617</m_nRight>
 								<m_nBottom type="a">801</m_nBottom>
+=======
+								<m_nRight type="a">647</m_nRight>
+								<m_nBottom type="a">620</m_nBottom>
+>>>>>>> d644d5d8c833a012609190074e15f46411931a56
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
 						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
@@ -42,9 +47,15 @@
 								<_hid type="a">GUID d2b121a9-340e-48ea-ab31-4b10b9bc21ed</_hid>
 							</IHandle>
 						</_theDiagram>
+<<<<<<< HEAD
 						<_UpLeft type="a">0 0 </_UpLeft>
 						<_DownRight type="a">628 800 </_DownRight>
 						<m_nDiagramIndex type="a">7</m_nDiagramIndex>
+=======
+						<_UpLeft type="a">19 30 </_UpLeft>
+						<_DownRight type="a">680 639 </_DownRight>
+						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
+>>>>>>> d644d5d8c833a012609190074e15f46411931a56
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -60,8 +71,13 @@
 								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
 								<m_nLeft type="a">5</m_nLeft>
 								<m_nTop type="a">27</m_nTop>
+<<<<<<< HEAD
 								<m_nRight type="a">617</m_nRight>
 								<m_nBottom type="a">801</m_nBottom>
+=======
+								<m_nRight type="a">647</m_nRight>
+								<m_nBottom type="a">620</m_nBottom>
+>>>>>>> d644d5d8c833a012609190074e15f46411931a56
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
 						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
@@ -71,6 +87,7 @@
 								<_hfilename type="a">.\Project_rpy\Default.sbsx</_hfilename>
 								<_hsubsystem type="a">Default</_hsubsystem>
 								<_hclass type="a">Receiving signal from RC</_hclass>
+<<<<<<< HEAD
 								<_hname type="a">Closing</_hname>
 								<_hid type="a">GUID af49f357-29ed-403b-97f7-9a9570adcf06</_hid>
 							</IHandle>
@@ -143,6 +160,14 @@
 						</_theDiagram>
 						<_UpLeft type="a">94 40 </_UpLeft>
 						<_DownRight type="a">685 793 </_DownRight>
+=======
+								<_hname type="a">Receiving signal from RC</_hname>
+								<_hid type="a">GUID 60ddb1e5-e611-4be7-a8e5-6ff717321d65</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">10 220 </_UpLeft>
+						<_DownRight type="a">631 792 </_DownRight>
+>>>>>>> d644d5d8c833a012609190074e15f46411931a56
 						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
@@ -159,8 +184,13 @@
 								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
 								<m_nLeft type="a">5</m_nLeft>
 								<m_nTop type="a">27</m_nTop>
+<<<<<<< HEAD
 								<m_nRight type="a">617</m_nRight>
 								<m_nBottom type="a">801</m_nBottom>
+=======
+								<m_nRight type="a">647</m_nRight>
+								<m_nBottom type="a">620</m_nBottom>
+>>>>>>> d644d5d8c833a012609190074e15f46411931a56
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
 						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
@@ -169,6 +199,7 @@
 								<_hm2Class type="a">IMSC</_hm2Class>
 								<_hfilename type="a">.\Project_rpy\Default.sbsx</_hfilename>
 								<_hsubsystem type="a">Default</_hsubsystem>
+<<<<<<< HEAD
 								<_hclass type="a">Receiving signal from RC</_hclass>
 								<_hname type="a">Opening</_hname>
 								<_hid type="a">GUID c2c43de9-0ab5-4302-b6f5-2df03ed2d6b1</_hid>
@@ -178,6 +209,17 @@
 						<_DownRight type="a">591 753 </_DownRight>
 						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
+=======
+								<_hclass type="a">Stopping</_hclass>
+								<_hname type="a">Stopping</_hname>
+								<_hid type="a">GUID 672b411f-6b97-49f6-bbb8-f13649451ff6</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">621 572 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<m_bIsActiveView type="a">1</m_bIsActiveView>
+>>>>>>> d644d5d8c833a012609190074e15f46411931a56
 					</CGEMdiDiagramParams>
 					
 					<CGEMdiDiagramParams type="e">
@@ -192,6 +234,7 @@
 								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
 								<m_nLeft type="a">5</m_nLeft>
 								<m_nTop type="a">27</m_nTop>
+<<<<<<< HEAD
 								<m_nRight type="a">617</m_nRight>
 								<m_nBottom type="a">801</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
@@ -260,6 +303,10 @@
 								<m_nTop type="a">27</m_nTop>
 								<m_nRight type="a">617</m_nRight>
 								<m_nBottom type="a">801</m_nBottom>
+=======
+								<m_nRight type="a">647</m_nRight>
+								<m_nBottom type="a">620</m_nBottom>
+>>>>>>> d644d5d8c833a012609190074e15f46411931a56
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
 						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
@@ -272,15 +319,25 @@
 								<_hid type="a">GUID ce0fdfa5-3dc7-4595-9a98-a251798f435d</_hid>
 							</IHandle>
 						</_theDiagram>
+<<<<<<< HEAD
 						<_UpLeft type="a">0 247 </_UpLeft>
 						<_DownRight type="a">591 1000 </_DownRight>
 						<m_nDiagramIndex type="a">6</m_nDiagramIndex>
+=======
+						<_UpLeft type="a">0 50 </_UpLeft>
+						<_DownRight type="a">621 622 </_DownRight>
+						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
+>>>>>>> d644d5d8c833a012609190074e15f46411931a56
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
 				</IRPYRawContainer>
 			</myViewsWithID>
+<<<<<<< HEAD
 			<_fullName type="a">C:\Users\LabPOIO-102\Desktop\martmac\Lab2_lucjan\Project</_fullName>
+=======
+			<_fullName type="a">C:\Users\LabPOIO-106\Desktop\Nisar\Lab2_lucjan\Project</_fullName>
+>>>>>>> d644d5d8c833a012609190074e15f46411931a56
 			<_selectedPerspective type="a">Advanced</_selectedPerspective>
 			<m_SearchScopeList type="c">
 				<IRPYRawContainer type="e">
